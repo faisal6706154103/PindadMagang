@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16640401259",
+    "firebase_url": "https://proyekakhir-c34c3.firebaseio.com",
+    "project_id": "proyekakhir-c34c3",
+    "storage_bucket": "proyekakhir-c34c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16640401259:android:6549b24863932268",
+        "android_client_info": {
+          "package_name": "com.example.asus.pindadmagang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16640401259-ivfv143tkvcc945ernihseutb7uddlkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.pindadmagang",
+            "certificate_hash": "c6eba45e998ab93d12db19485fbd1ddf03c53a2f"
+          }
+        },
+        {
+          "client_id": "16640401259-rfqamj94b0hijamtrllcgg83prg4vs8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_FJEQDKzYKdkzEDIMnZ5yHZWOimWUIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16640401259-rfqamj94b0hijamtrllcgg83prg4vs8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
